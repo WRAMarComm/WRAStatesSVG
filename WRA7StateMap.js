@@ -1,4 +1,4 @@
-Highcharts.maps["Luxembourg"]={[
+Highcharts.maps["WRAStates"]={[
     {
       "type": "map",
       "joinBy": "id",
